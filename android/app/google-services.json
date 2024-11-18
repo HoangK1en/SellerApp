@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "979126033586",
+    "project_id": "emartapp-33e83",
+    "storage_bucket": "emartapp-33e83.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979126033586:android:6ca89daed83b6dc83afdab",
+        "android_client_info": {
+          "package_name": "com.example.emart_seller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB92vj9AjgJlUNQZN-avNXdu2uzq48_1Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979126033586:android:f72053d072af16683afdab",
+        "android_client_info": {
+          "package_name": "com.example.emartseller_app.host"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB92vj9AjgJlUNQZN-avNXdu2uzq48_1Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
